@@ -1,2 +1,1 @@
-# Camera-Kit
- Camera Kit Web App
+# camera_kit_demo
